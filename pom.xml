@@ -5,8 +5,15 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.tianyu.example</groupId>
-    <artifactId>high-concurrency-action</artifactId>
+    <artifactId>reading-note</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <dependencies>
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.16.8</version>
+        </dependency>
+    </dependencies>
 
 </project>
